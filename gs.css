@@ -1,0 +1,46 @@
+.song {
+    font-size: 15px; 
+    color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .speech {
+    font-size: 20px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .direction {
+    font-size: 20px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .name {
+    font-size: 25px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .direction:hover {
+  color: blue;
+  background-color: blanchedalmond;
+  }
+  .MAR{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .ALL {
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .GUI{
+    color: darkorchid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .GIO{
+    color: darkseagreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .ANN{
+    color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
